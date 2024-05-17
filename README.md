@@ -50,3 +50,6 @@ https://snapofkknowledge.netlify.app/
 | :-------- | :------- | :------------------------- |
 | `api_key` | `string` | **Public**. Your API key |
 
+
+## Contact Me 
+I hope you find this helpful and interesting design from my humbled efforts if you have any questions or you want to work with me please feel free to reach out to me via altayebtalab@gmail.com. Happy evening coding🧑‍💻.
